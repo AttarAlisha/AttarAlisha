@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Alisha
----
+
 ## As a fresher, I'm passionate about exploring innovative tech solutions and constantly learning new skills.
 ---
 🔍 I'm currently working on a project to detect fake social media accounts, leveraging AI and blockchain technology. 
