@@ -1,13 +1,14 @@
-##👋 Hi, I'm Alisha
+# 👋 Hi, I'm Alisha
 ---
-#As a fresher, I'm passionate about exploring innovative tech solutions and constantly learning new skills.
+## As a fresher, I'm passionate about exploring innovative tech solutions and constantly learning new skills.
 ---
-🔍 I'm passionate about exploring innovative tech solutions, particularly in AI and blockchain. I'm currently working on a project to detect fake social media accounts.
-📚 I'm constantly learning and enhancing my skills in programming languages like C++, Java, and SQL, and diving into the world of AI algorithms.
+🔍 I'm currently working on a project to detect fake social media accounts, leveraging AI and blockchain technology. 
+
+📚 I'm constantly enhancing my skills in programming languages like C++, Java, and SQL, and diving into the world of AI algorithms.
 
 📫 **How to reach me:**
-- Email: attaralisha29@gmail.com
-- LinkedIn: https://www.linkedin.com/in/alisha-attar-83710a245/
+- Email: [attaralisha29@gmail.com](mailto:attaralisha29@gmail.com)
+- LinkedIn: [Alisha Attar](https://www.linkedin.com/in/alisha-attar-83710a245/)
 
 ---
 
@@ -27,4 +28,4 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) 
