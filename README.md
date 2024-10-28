@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Alisha
 
 ## As a fresher, I'm passionate about exploring innovative tech solutions and constantly learning new skills.
----
-🔍 I'm currently working on a project to detect fake social media accounts, leveraging AI and blockchain technology. 
+--- 
 
 📚 I'm constantly enhancing my skills in programming languages like C++, Java, and SQL, and diving into the world of AI algorithms.
 
